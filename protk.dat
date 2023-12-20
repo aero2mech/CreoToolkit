@@ -1,0 +1,8 @@
+NAME       Drawing Checks
+EXEC_FILE  F:\creo customization\Self Practice\DrawingCheckV1\x64\Debug\DrawingCheckV1.dll
+TEXT_DIR   F:\creo customization\Self Practice\DrawingCheckV1\text
+STARTUP    dll
+ALLOW_STOP	TRUE
+DELAY_START	TRUE
+REVISION   1
+END

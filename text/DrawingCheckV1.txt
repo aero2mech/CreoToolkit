@@ -1,0 +1,16 @@
+Start_Label
+Start
+#
+#
+DrawingCheck_Label
+DrawingCheck
+#
+#
+DrawingCheck_Helptext
+Drawing Checks
+#
+#
+%CIUSER : |||%0w
+USER : |||%0w
+#
+#
